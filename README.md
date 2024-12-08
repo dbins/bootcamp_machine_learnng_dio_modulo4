@@ -6,10 +6,10 @@ No desafio do quarto módulo do Bootcampo BairesDev - Machine Learning Practitio
 
 Bibliotecas utilizadas:
 
-Tensorflow
-Pandas
-Matplotlib
-Sklearn
+- Tensorflow
+- Pandas
+- Matplotlib
+- Sklearn
 
 ## Dataset 
 
